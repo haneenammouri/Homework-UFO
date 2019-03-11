@@ -2,8 +2,8 @@
 var table = data;
 
 // The following didnt work, the logic follows, but not the script i guess.  i didnt add more keys as state, country..etc because the first didnt work
-// But if it had worked, i would ave repeated the below steps for each key.
-// I also have below a fraction of diffreent routs i tried which of course didn't work
+// But if it had, i would have repeated the below steps for each key.
+// I also have below a fraction of different routs i tried which of course didn't work
 
 function findDate(table) {
 
